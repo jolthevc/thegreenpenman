@@ -1,7 +1,7 @@
-ref_id,filename,subject_type,purpose,approval_level,status,original_source,note
-GPM-REF-001,GPM-REF-001_open-cage.png,animal,primary_style_anchor,directional_style_approved,pending_import,founding_conversation,"Select exact favored sage italic variant before finalizing"
-GPM-REF-002,GPM-REF-002_set-down-baggage.png,human,character_and_burden,directional_style_approved,pending_import,founding_conversation,"One sentence Put down what was never yours to carry"
-GPM-REF-003,GPM-REF-003_umbrella-seller.png,human,incentives_and_dialogue,directional_style_approved,pending_import,founding_conversation,"Pale sage single scene with umbrella seller and listeners"
-GPM-REF-004,GPM-REF-004_lion-silence.png,animal,power_and_spatial_hierarchy,directional_style_approved,pending_import,founding_conversation,"Lion with fearful small creatures at edges"
-GPM-REF-005,GPM-REF-005_fence.png,animal,protection_vs_confinement,directional_style_approved,pending_import,founding_conversation,"Quiet sheep at fence"
-GPM-REF-006,GPM-REF-006_harbor.png,object,object_landscape_metaphor,directional_style_approved,pending_import,founding_conversation,"Tethered rowboat and ample negative space"
+ref_id,filename,subject_type,purpose,approval_level,status,original_source,note,width,height,sha256
+GPM-REF-001,GPM-REF-001_open-cage.png,animal,primary_style_anchor,directional_style_approved,pending_import,the_open_cage_forgotten_sky.png,Select exact favored sage italic variant before finalizing,1158,1358,cc1cfb986ec3f06bba7fe04b12f9b5a0f121cb46281c70bbcfc4638f5e074fec
+GPM-REF-002,GPM-REF-002_set-down-baggage.png,human,character_and_burden,directional_style_approved,pending_import,releasing_the_weight_of_burdens.png,One sentence Put down what was never yours to carry,1122,1402,1de1b2f8042c025b6030611f93927e3557e463dbe28b26084d6658c68bd729f0
+GPM-REF-003,GPM-REF-003_umbrella-seller.png,human,incentives_and_dialogue,directional_style_approved,pending_import,never_ask_the_umbrella_seller.png,Pale sage single scene with umbrella seller and listeners,1122,1402,4ed8cb77e7656b4f90219a97c910d89de4517d59478cf004d4ea14c26f6a9163
+GPM-REF-004,GPM-REF-004_lion-silence.png,animal,power_and_spatial_hierarchy,directional_style_approved,pending_import,lion_in_the_silent_woodland.png,Lion with fearful small creatures at edges,1122,1402,25feb1e0874dcbaef34c871df278ccb4ef00f89f749745c6af942a61632c31b2
+GPM-REF-005,GPM-REF-005_fence.png,animal,protection_vs_confinement,directional_style_approved,pending_import,do_not_thank_the_fence.png,Quiet sheep at fence,1122,1402,47a591848460e95ed923a5bb2dc43349a4261caddafa13dcf06c97dc0f87d6f1
+GPM-REF-006,GPM-REF-006_harbor.png,object,object_landscape_metaphor,directional_style_approved,pending_import,leave_the_harbor_find_the_world.png,Tethered rowboat and ample negative space,1122,1402,41e1f26d5bba1e9dfdc79314790b5e34e490af81e5a9fa47aa8eb6ad340f7cf7
