@@ -1,0 +1,22 @@
+# Post brief | GPM-XXXX
+
+- **ID**: GPM-XXXX
+- **Status**: idea
+- **Pillar**:
+- **Insight in plain words**:
+- **Exact proposed one-sentence directive**:
+- **What a reader should learn**:
+- **Visual subject**: human / animal / object / environment
+- **Precise scene**:
+- **Critical visual contradiction/detail**:
+- **What NOT to depict**:
+- **Why this image beats other visual choices**:
+- **Exact caption (1–2 sentences)**:
+- **Copy approver/date**: pending
+- **Art prompt / reference IDs**:
+- **Art file path**: pending
+- **Art approver/date**: pending
+- **Final package path**: pending
+- **Quality scores**: substance _, line _, alignment _, visual _, originality _, caption _
+- **Review notes**:
+- **Publish URL/date**: not published
